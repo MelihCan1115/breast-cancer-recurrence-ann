@@ -52,8 +52,12 @@ Bu çalışma, akademik bir çerçevede meme kanseri hastalarının nüks ve sa�
 - Feature analysis revealed that **Progesterone Receptor (PGR)**, **Tumor Size**, and **Number of Nodes** had the most significant impact on the model's prediction of recurrence.
 
 <p align="center">
-  <img src="assets/image6.png" alt="Model Evaluation" width="45%">
-  <img src="assets/image7.png" alt="Confusion Matrix" width="45%">
+  
+  <img width="2284" height="1617" alt="fig6_shap_importance" src="https://github.com/user-attachments/assets/b801701f-a230-4922-904b-f7fbb274e0a0" />
+  
+  <img width="2365" height="1764" alt="fig5_roc_comparison" src="https://github.com/user-attachments/assets/72dcddee-71da-41ff-80cf-5ee13c68c9a1" />
+
+  <img width="4018" height="1459" alt="fig4_confusion_matrices" src="https://github.com/user-attachments/assets/e1b6e06b-6ce7-480b-b504-de2d6ff0cb1c" />
 </p>
 <p align="center">
   <em>Figure 2. Sample Training Loss/Accuracy and Confusion Matrix Outputs from the models.</em>
@@ -63,13 +67,9 @@ Bu çalışma, akademik bir çerçevede meme kanseri hastalarının nüks ve sa�
 
 ## Results Summary / Sonuç Özeti
 
-| Model | Setup | Threshold | Accuracy | Precision | Recall | ROC-AUC |
-|-------|-------|-----------|----------|-----------|--------|---------|
-| **Logistic Reg. (Baseline)** | `rfstime` excluded | 0.50 | Moderate | Moderate | Moderate | Moderate |
-| **Model A** | `rfstime` included | 0.50 | **Highest** | **Highest** | High | **Highest** |
-| **Model B (Clinical)** | `rfstime` excluded | **Optimized** | High | Moderate | **≥ 0.75** | High |
+<img width="3417" height="1118" alt="fig2_training_history_modelA" src="https://github.com/user-attachments/assets/a32a3b5d-3a6a-4b52-b3ad-e2cc96d94623" />
 
-*(Exact metric values can be found in the project report and Jupyter Notebook outputs).*
+<img width="3410" height="1118" alt="fig3_training_history_modelB" src="https://github.com/user-attachments/assets/b8a9eeba-1a29-4c06-9b35-e41c2b61429c" />
 
 ---
 
