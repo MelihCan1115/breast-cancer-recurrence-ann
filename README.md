@@ -1,14 +1,10 @@
 # Breast Cancer Recurrence Prediction using Artificial Neural Networks
+## Yapay Sinir Ağları Kullanılarak Meme Kanseri Nüksünün Tahmin Edilmesi
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-API-red.svg)](https://keras.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/)
 English [EN] | Türkçe [TR]
-
-# Artificial Neural Networks for Breast Cancer Recurrence Prediction
-# Meme Kanseri Nüks Tahmini için Yapay Sinir Ağları
-
-![breast-cancer-ann-prediction](assets/image1.png)
 
 <p align="center">
   <strong>Figure 1.</strong> Overview of the Breast Cancer Prediction System. [EN]<br>
