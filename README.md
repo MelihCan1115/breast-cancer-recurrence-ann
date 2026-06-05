@@ -1,4 +1,4 @@
-# Breast Cancer Recurrence Prediction using Artificial Neural Networks (ANN)
+# Breast Cancer Recurrence Prediction using Artificial Neural Networks
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-API-red.svg)](https://keras.io/)
