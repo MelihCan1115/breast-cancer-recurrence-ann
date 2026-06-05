@@ -4,12 +4,8 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-API-red.svg)](https://keras.io/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange.svg)](https://scikit-learn.org/)
-English [EN] | Türkçe [TR]
 
-<p align="center">
-  <strong>Figure 1.</strong> Overview of the Breast Cancer Prediction System. [EN]<br>
-  <strong>Şekil 1.</strong> Meme Kanseri Tahmin Sistemine genel bakış. [TR]
-</p>
+English [EN] | Türkçe [TR]
 
 ## Abstract [EN]
 This study examines the performance of Artificial Neural Networks (ANN) in predicting the recurrence and survival rates of breast cancer patients within an academic framework. Two distinct deep learning models (Model A and Model B) were evaluated using the open-access GBSG dataset. Model B specifically focused on a clinical approach by excluding future data variables and optimizing a medical threshold to prioritize patient safety (maximizing recall). This project was developed as a final project for the Computational Intelligence course.
